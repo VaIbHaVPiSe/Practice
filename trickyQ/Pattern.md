@@ -22,7 +22,7 @@ Your output should be the pattern according to the input which you had entered.
 
 
 
-Pattern 4
+Pattern 5
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 1 2 3 4 5
@@ -40,7 +40,7 @@ Constraints
 Output Format
 Your output should be the pattern according to the input which you had entered. 
 
-pattern 5
+pattern 4
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 A A A A A
@@ -84,6 +84,22 @@ You need to take an integer input and then draw the pattern according to it. Say
 3 3 3 3 3
 2 2 2 2 2
 1 1 1 1 1 
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 1000
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
 
 Input Format
 You will take an integer input n from stdin.
