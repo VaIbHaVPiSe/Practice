@@ -182,3 +182,57 @@ Constraints
 
 Output Format
 Your output should be the pattern according to the input which you had entered. 
+
+Pattern 13
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5 
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 1000
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+Pattern 14
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+A
+A B
+A B C
+A B C D
+A B C D E 
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 26
+
+Output Format
+Your output should be the pattern according to the input which you had entered.
+
+Pattern 15
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+A
+B B
+C C C
+D D D D
+E E E E E 
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 26
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
