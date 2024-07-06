@@ -362,3 +362,57 @@ Constraints
 
 Output Format
 Your output should be the pattern according to the input which you had entered. 
+
+Pattern Problem - 22 
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+
+E E E E E
+D D D D
+C C C
+B B
+A 
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 26
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+Pattern Problem - 23 
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+
+E D C B A
+E D C B
+E D C
+E D
+E
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 26
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+Pattern Problem - 24 (100 Marks)
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+Input Format
+You will take an integer input n from stdin.
+
+Constraints
+1 <= n <= 1000
+
+Output Format
+Your output should be the pattern according to the input which you had entered. 
