@@ -646,3 +646,22 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+
+
+## Pattern Problem - 37 (100 Marks)
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+        A
+      B B B
+    C C C C C
+  D D D D D D D
+E E E E E E E E E
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 26
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
