@@ -648,7 +648,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 
 
-## Pattern Problem - 37 (100 Marks)
+## Pattern Problem - 37 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 ```
         A
@@ -679,6 +679,24 @@ You will take an integer input n from stdin.
 
 ### Constraints
 1 <= n <= 13
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+## Pattern Problem - 39 
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+        1
+      1 2 3
+    1 2 3 4 5
+  1 2 3 4 5 6 7
+1 2 3 4 5 6 7 8 9 
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 1000
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
