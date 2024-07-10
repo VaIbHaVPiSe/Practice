@@ -665,3 +665,20 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+
+## Pattern Problem - 38 
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 4 then, the pattern should be like this-
+```
+      A
+    C C C
+  E E E E E
+G G G G G G G
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 13
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
