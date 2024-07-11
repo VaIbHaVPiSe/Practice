@@ -3,7 +3,7 @@
 # Patterns 
 
 <details> 
-## Pattern 3
+<summary>## Pattern 3</summary>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 ```
