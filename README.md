@@ -25,6 +25,8 @@ Your output should be the pattern according to the input which you had entered.
 
 </details>
 
+### solution [here](myLib/README.md)
+
 ## Pattern Problem - 4
 <details>
 
