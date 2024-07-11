@@ -2,7 +2,7 @@
 
 # Patterns 
 
-## Pattern 3
+<detail> ## Pattern 3
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 ```
@@ -21,7 +21,7 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 
-
+</detail>
 
 ## Pattern 5
 
@@ -691,6 +691,24 @@ You need to take an integer input and then draw the pattern according to it. Say
     1 2 3 4 5
   1 2 3 4 5 6 7
 1 2 3 4 5 6 7 8 9 
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 1000
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+## Pattern Problem - 40
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+        1
+      3 2 1
+    5 4 3 2 1
+  7 6 5 4 3 2 1
+9 8 7 6 5 4 3 2 1 
 ```
 ### Input Format
 You will take an integer input n from stdin.
