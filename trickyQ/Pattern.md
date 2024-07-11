@@ -2,7 +2,7 @@
 
 # Patterns 
 
-## Pattern 3
+## Pattern Problem - 3
 <details> 
 
 
@@ -25,7 +25,7 @@ Your output should be the pattern according to the input which you had entered.
 
 </details>
 
-## Pattern 5
+## Pattern Problem - 5
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -46,7 +46,7 @@ You will take an integer input  n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 4
+## Pattern Problem - 4
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -67,7 +67,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 6
+## Pattern Problem - 6
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -88,7 +88,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 7
+## Pattern Problem - 7
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -109,7 +109,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 8
+## Pattern Problem - 8
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -130,7 +130,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 9
+## Pattern Problem - 9
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -152,7 +152,7 @@ Your output should be the pattern according to the input which you had entered.
 
 </details>
 
-## Pattern 10
+## Pattern Problem - 10
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -173,7 +173,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 11
+## Pattern Problem - 11
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -195,7 +195,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 12
+## Pattern Problem - 12
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -216,7 +216,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 13
+## Pattern Problem - 13
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -237,7 +237,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 14
+## Pattern Problem - 14
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -258,7 +258,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered.
 </details>
 
-## Pattern 15
+## Pattern Problem - 15
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -279,7 +279,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 16
+## Pattern Problem - 16
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -300,7 +300,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern 16
+## Pattern Problem - 16
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -322,7 +322,7 @@ Your output should be the pattern according to the input which you had entered.
 
 </details>
 
-## Pattern 17
+## Pattern Problem - 17
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -343,7 +343,7 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 </details>
 
-## Pattern - 18
+## Pattern Problem - 18
 <details>
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 ```
