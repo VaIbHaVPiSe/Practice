@@ -24,7 +24,8 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 
 </details>
- solution [here](trickyQ/pattern3.c)
+ 
+ [solution] ( trickyQ/pattern3.c)
 
 ## Pattern Problem - 4
 <details>
