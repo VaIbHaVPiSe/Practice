@@ -9,9 +9,8 @@ int main(){
                 printf(" ");
                 count++;
             }else{
-            for(int k=0;k<j;k++){
-                printf("%i",k);
-            }
+            
+            
             }
         }
         printf("\n");
