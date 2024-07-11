@@ -23,6 +23,14 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 
+
+
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern3.c)
+ 
 </details>
 
 ## Pattern Problem - 4
@@ -44,6 +52,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern4.c)
+ 
 </details>
 
 
@@ -67,6 +81,12 @@ You will take an integer input  n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern5.c)
+ 
+</details>
 
 ## Pattern Problem - 6
 <details>
@@ -87,6 +107,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern6.c)
+ 
 </details>
 
 ## Pattern Problem - 7
@@ -109,6 +135,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern7.c)
+ 
+</details>
 
 ## Pattern Problem - 8
 <details>
@@ -129,6 +161,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern8.c)
+ 
 </details>
 
 ## Pattern Problem - 9
@@ -152,6 +190,12 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern9.c)
+ 
+</details>
 
 ## Pattern Problem - 10
 <details>
@@ -172,6 +216,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern10.c)
+ 
 </details>
 
 ## Pattern Problem - 11
@@ -195,6 +245,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern11.c)
+ 
+</details>
 
 ## Pattern Problem - 12
 <details>
@@ -215,6 +271,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern12.c)
+ 
 </details>
 
 ## Pattern Problem - 13
@@ -237,6 +299,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern13.c)
+ 
+</details>
 
 ## Pattern Problem - 14
 <details>
@@ -257,6 +325,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered.
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern14.c)
+ 
 </details>
 
 ## Pattern Problem - 15
@@ -279,6 +353,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern15.c)
+ 
+</details>
 
 ## Pattern Problem - 16
 <details>
@@ -299,6 +379,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern16.c)
+ 
 </details>
 
 ## Pattern Problem - 17
@@ -321,6 +407,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern17.c)
+ 
+</details>
 
 ## Pattern Problem - 18
 <details>
@@ -340,6 +432,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern18.c)
+ 
 </details>
 
 ## Pattern Problem - 19 
@@ -362,6 +460,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern19.c)
+ 
+</details>
 
 ## Pattern Problem - 20 
 <details>
@@ -382,6 +486,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern20.c)
+ 
 </details>
 
 ## Pattern Problem - 21
@@ -404,6 +514,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern21.c)
+ 
+</details>
 
 ## Pattern Problem - 22 
 <details>
@@ -423,6 +539,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern22.c)
+ 
 </details>
 
 ## Pattern Problem - 23 
@@ -444,6 +566,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern23.c)
+ 
+</details>
 
 ## Pattern Problem - 24 
 <details>
@@ -464,6 +592,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern24.c)
+ 
 </details>
 
 ## Pattern Problem - 25 
@@ -488,6 +622,12 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern25.c)
+ 
+</details>
 
 ## Pattern Problem - 26 
 <details>
@@ -508,6 +648,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern26.c)
+ 
 </details>
 
 ## Pattern Problem - 27 
@@ -531,6 +677,12 @@ You will take an integer input n from stdin.
 Your output should be the pattern according to the input which you had entered. 
 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern27.c)
+ 
+</details>
 
 ## Pattern Problem - 28
 <details>
@@ -551,6 +703,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern28.c)
+ 
 </details>
 
 ## Pattern Problem - 29
@@ -573,6 +731,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern29.c)
+ 
+</details>
 
 ## Pattern Problem - 30 
 <details>
@@ -592,6 +756,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern30.c)
+ 
 </details>
 
 ## Pattern Problem - 31
@@ -613,6 +783,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern31.c)
+ 
+</details>
 
 ## Pattern Problem - 32
 <details> 
@@ -632,6 +808,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern32.c)
+ 
 </details>
 
 ## Pattern Problem - 34 
@@ -653,6 +835,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered.
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern34.c)
+ 
+</details>
 
 ## Pattern Problem - 35
 <details>
@@ -672,6 +860,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern35.c)
+ 
 </details>
 
 ## Pattern Problem -36
@@ -694,6 +888,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern36.c)
+ 
+</details>
 
 ## Pattern Problem - 37 
 <details>
@@ -714,6 +914,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern37.c)
+ 
+</details>
 
 ## Pattern Problem - 38 
 <details>
@@ -732,6 +938,12 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern38.c)
+ 
 </details>
 
 ## Pattern Problem - 39 
@@ -753,6 +965,12 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 </details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern39.c)
+ 
+</details>
 
 ## Pattern Problem - 40
 <details>
@@ -772,4 +990,10 @@ You will take an integer input n from stdin.
 
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern40.c)
+ 
 </details>
