@@ -2,7 +2,8 @@
 
 # Patterns 
 
-<detail> ## Pattern 3
+<details> 
+## Pattern 3
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
 ```
@@ -21,7 +22,7 @@ You will take an integer input n from stdin.
 ### Output Format
 Your output should be the pattern according to the input which you had entered. 
 
-</detail>
+</details>
 
 ## Pattern 5
 
