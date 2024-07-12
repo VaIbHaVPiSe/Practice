@@ -2,6 +2,69 @@
 
 # Patterns 
 
+## Pattern Problem - 1
+<details> 
+
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+1
+10
+101
+1010
+10101
+101010
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 1000
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+
+
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern1.c)
+ 
+</details>
+
+## Pattern Problem - 2
+<details> 
+
+
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+*****
+   *
+  *
+ *
+*****
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 1000
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
+
+
+
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern2.c)
+ 
+</details>
+
 ## Pattern Problem - 3
 <details> 
 
@@ -818,6 +881,34 @@ Your output should be the pattern according to the input which you had entered.
  [C](trickyQ/pattern32.c)
  
 </details>
+
+## Pattern Problem - 33 
+<details>
+ 
+You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
+```
+A B C D E
+  A B C D
+    A B C
+      A B
+        A 
+```
+### Input Format
+You will take an integer input n from stdin.
+
+### Constraints
+1 <= n <= 26
+
+### Output Format
+Your output should be the pattern according to the input which you had entered. 
+</details>
+<details>
+<summary>Solutions</summary>
+
+ [C](trickyQ/pattern33.c)
+ 
+</details>
+
 
 ## Pattern Problem - 34 
 <details>
