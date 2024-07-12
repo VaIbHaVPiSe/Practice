@@ -962,7 +962,7 @@ Your output should be the pattern according to the input which you had entered.
  
 </details>
 
-## Pattern Problem -36
+## Pattern Problem - 36
 <details>
 
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
