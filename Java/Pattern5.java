@@ -3,20 +3,21 @@ import java.util.Scanner;
 public class Pattern5 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        char alpha = 65;
         int n;
+        char alpha = 65;
 
         do {
             n = sc.nextInt();
         }
         while (n <= 1 && n <= 26);
 
-        // pattern logic
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                System.out.print((char) (alpha + j) +  " ");
+        // Alphabet Rectangle Logic
+        for (int i = 0; i < n; i++) {   // column loop
+            for (int j = 0; j < n; j++) {   // row loop
+                System.out.print(alpha + " ");    // display alphabet
             }
             System.out.println("");
-        }    
+            alpha++;    // increase alphabet
+        }
     }
 }
