@@ -32,6 +32,8 @@ Your output should be the pattern according to the input which you had entered.
 
  [C](trickyQ/pattern1.c)
  
+ [Java](Java/Pattern1.java)
+ 
 </details>
 
 ## Pattern Problem - 2
@@ -62,6 +64,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern2.c)
+
+ 
  
 </details>
 
@@ -120,6 +124,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern4.c)
+
+ [Java](Java/Pattern4.java)
  
 </details>
 
@@ -148,6 +154,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern5.c)
+
+ [Java](Java/Pattern5.java)
  
 </details>
 
@@ -175,6 +183,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern6.c)
+
+ [Java](Java/Pattern6.java)
  
 </details>
 
@@ -202,6 +212,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern7.c)
+
+ [Java](Java/Pattern7.java)
  
 </details>
 
@@ -229,6 +241,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern8.c)
+
+ [Java](Java/Pattern8.java)
  
 </details>
 
@@ -257,6 +271,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern9.c)
+
+ [Java](Java/Pattern9.java)
  
 </details>
 
@@ -284,6 +300,8 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern10.c)
+
+ [Java](Java/Pattern10.java)
  
 </details>
 
