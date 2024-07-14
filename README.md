@@ -64,6 +64,7 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern2.c)
+ 
  [Java](Java/Pattern2.java)
 
  
@@ -98,6 +99,7 @@ Your output should be the pattern according to the input which you had entered.
 <summary>Solutions</summary>
 
  [C](trickyQ/pattern3.c)
+ 
  [Java](Java/Pattern3.java)
  
 </details>
