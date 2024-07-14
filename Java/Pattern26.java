@@ -38,5 +38,6 @@ public class Pattern26{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

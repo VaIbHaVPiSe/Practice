@@ -17,5 +17,6 @@ public class Pattern23 {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

@@ -35,5 +35,6 @@ public class Pattern28 {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
